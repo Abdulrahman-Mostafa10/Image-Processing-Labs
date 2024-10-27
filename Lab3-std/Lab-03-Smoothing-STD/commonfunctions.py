@@ -14,6 +14,7 @@ import math
 
 from skimage.util import random_noise
 from skimage.filters import median
+from skimage.filters import gaussian
 from skimage.feature import canny
 
 
